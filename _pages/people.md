@@ -2,7 +2,7 @@
 layout: page
 permalink: /people/
 title: people
-description: People associated with BeCiL.
+#description: People associated with BeCiL.
 nav: true
 #nav_order: 5
 ---
