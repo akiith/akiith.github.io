@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: making life wireless...
 
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-## **Be**tar **Ci**rcuits **L**aboratory (BeCiL)
+## **Be**tar **Ci**rcuits **L**aboratory (**BeCiL**)
 "Betar" (बेतार) is a Hindi word meaning "wireless".
 
 BeCiL is exploring circuit techniques to revolutionize wireless systems. Currently we are working on:
