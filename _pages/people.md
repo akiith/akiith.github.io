@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /people/
-title: people
-description: Present and past people associated with BeCiL
+title: People
+description: People associated with BeCiL.
 nav: true
 #nav_order: 5
 ---
