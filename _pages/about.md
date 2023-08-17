@@ -6,9 +6,10 @@ subtitle: making life wireless...
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ak_photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>PI: Abhishek Kumar</p>
     <p>Academic Block 'C' 436</p>
     <p>Department of Electrical Engineering</p>
     <p>IIT Hyderabad</p>
