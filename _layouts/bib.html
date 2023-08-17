@@ -2,7 +2,7 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-3 {% if entry.note %}note{% else %}abbr{% endif %}">
+        <div class="col-sm-3 {% if entry.note %}preview{% else %}abbr{% endif %}">
         {%- if entry.note -%}
           {% if entry.note contains '://' -%}
           <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.note }}">
