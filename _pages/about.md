@@ -7,7 +7,7 @@ subtitle: making life wireless...
 profile:
   align: right
   image: ak_photo.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>PI: Abhishek Kumar</p>
     <p>Academic Block 'C' 436</p>
