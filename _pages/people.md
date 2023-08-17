@@ -1,17 +1,17 @@
 ---
 layout: page
 permalink: /people/
-title: people
+title: People
 #description: People associated with BeCiL.
 nav: true
 #nav_order: 5
 ---
 
-## Faculty
+### Faculty
 - Abhishek Kumar
 
-## Students
-### PhD
+### Students
+#### PhD
 - Sonu Anirudha (jointly supervising)
 - Manish Kumar (external)
 - Divya Kumar Garg (external)
@@ -19,13 +19,13 @@ nav: true
 - H S Trinath Tammisetti
 - Reyya Kiran
 
-### MTech
+#### MTech
 - Devesh
 - Anurag
 - Chaitanya
 - Srishti
 
-## Past students
+### Past students
 - Ritesh (Analog Devices)
 - Gopikrishna (Steradian Semi)
 - Nitish Kumar (Qualcomm)
