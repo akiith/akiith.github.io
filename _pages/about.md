@@ -14,19 +14,19 @@ profile:
     <p>Department of Electrical Engg.</p>
     <p>IIT Hyderabad</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-## **Be**tar **Ci**rcuits **L**aboratory (**BeCiL**)
+## **Be**tar **Ci**rcuits **L**aboratory
 "Betar" (बेतार) is a Hindi word meaning "wireless".
 
-BeCiL is exploring circuit techniques to revolutionize wireless systems. Currently we are working on:
+BeCiL @ IITH is exploring circuit techniques to revolutionize wireless systems. Currently we are working on:
 
 - Full-duplex wireless communication
 - Lightweight RF transceivers
 - Wireless power transfer
 - Wide-band frequency synthesis
-- Arrays
+- Transceiver arrays
