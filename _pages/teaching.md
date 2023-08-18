@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses taught so far
+description: Courses taught @ IITH
 nav: true
 nav_order: 5
 ---
