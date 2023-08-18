@@ -11,7 +11,7 @@ profile:
   address: >
     <p>PI: Abhishek Kumar</p>
     <p>Academic Block 'C' 436</p>
-    <p>Department of Electrical Engg.</p>
+    <p>Department of Electrical Engineering</p>
     <p>IIT Hyderabad</p>
 
 news: false  # includes a list of news items
