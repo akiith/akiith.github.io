@@ -7,12 +7,12 @@ nav: true
 nav_order: 5
 ---
 
-## Theory courses
+### Theory courses
 - Digital circuits (ongoing)
 - Analog electronics
 - Integrated circuits for wireless communication
 - Analog circuits
 - Electronic packaging (partly)
 
-## Lab courses
+### Lab course
 - Analog electronics lab
