@@ -10,9 +10,9 @@ nav: true
 ### Faculty
 
 - Abhishek Kumar
-  - Ph.D. - EE @ [IIT Madras](https://www.iitm.ac.in), 2018
-  - M.E. - Microelectronics @ [IISc Bangalore](https://iisc.ac.in/), 2011
-  - B.E. - EE @ [M.B.M. Engineering College, Jodhpur](https://www.mbm.ac.in/), 2009
+  - PhD - EE @ [IIT Madras](https://www.iitm.ac.in), 2018
+  - ME - Microelectronics @ [IISc Bangalore](https://iisc.ac.in/), 2011
+  - BE - EE @ [M.B.M. Engineering College, Jodhpur](https://www.mbm.ac.in/), 2009
 
 ### Students
 
