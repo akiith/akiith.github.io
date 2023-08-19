@@ -11,19 +11,14 @@ nav: true
 - Abhishek Kumar
 
 ### Students
-#### PhD
-- Sonu Anirudha (jointly supervising)
-- Manish Kumar (external)
-- Divya Kumar Garg (external)
-- Deepak Kumar Sah
-- H S Trinath Tammisetti
-- Reyya Kiran
-
-#### MTech
-- Devesh
-- Anurag
-- Chaitanya
-- Srishti
+| PhD                                 | MTech     |
+|-------------------------------------|-----------|
+| Sonu Anirudha (jointly supervising) | Devesh    |
+| Manish Kumar (external)             | Anurag    |
+| Divya Kumar Garg (external)         | Chaitanya |
+| Deepak Kumar Sah                    | Srishti   |
+| H S Trinath Tammisetti              |           |
+| Reyya Kiran                         |           |
 
 ### Past students
 - Ritesh (Analog Devices)
