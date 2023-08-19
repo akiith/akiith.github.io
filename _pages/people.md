@@ -14,6 +14,8 @@ nav: true
   - B.E.: EE @ [M.B.M. Engineering College, Jodhpur](https://www.mbm.ac.in/), 2009
 
 ### Students
+
+|---
 | PhD                                 | MTech     |
 |-------------------------------------|-----------|
 | Sonu Anirudha (jointly supervising) | Devesh    |
