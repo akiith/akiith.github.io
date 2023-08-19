@@ -36,6 +36,6 @@ nav: true
 - Payal (Qualcomm)
 - Siddharth (ECIL)
 - Abhay (ECIL)
-- Jyoti (Samsung Research)
+- Jyotirmaya (Samsung Research)
 - Dhananjay (Mediatek)
 - Nikhil (Qualcomm)

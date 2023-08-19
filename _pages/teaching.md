@@ -8,6 +8,7 @@ nav_order: 5
 ---
 
 ### Theory courses
+
 - Digital circuits (ongoing)
 - Analog electronics
 - Integrated circuits for wireless communication
@@ -15,4 +16,5 @@ nav_order: 5
 - Electronic packaging (partly)
 
 ### Lab course
+
 - Analog electronics lab
