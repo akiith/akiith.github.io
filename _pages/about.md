@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 ## **Be**tar **Ci**rcuits **L**aboratory
 "Betar" (बेतार) is a Hindi word meaning "wireless".
 
-BeCiL @ IITH is exploring and inventing innovative circuit techniques to revolutionize wireless systems. Currently we are working on:
+BeCiL @ [IITH](https://www.iith.ac.in/) is exploring and inventing innovative circuit techniques to revolutionize wireless systems. Currently we are working on:
 
 - Full-duplex wireless communication
 - Lightweight RF transceivers
