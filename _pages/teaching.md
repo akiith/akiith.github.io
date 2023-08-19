@@ -11,7 +11,7 @@ nav_order: 5
 - Digital circuits (ongoing)
 - Analog electronics
 - Integrated circuits for wireless communication
-- Analog circuits
+- Analog IC design / Analog circuits
 - Electronic packaging (partly)
 
 ### Lab course
