@@ -15,7 +15,7 @@ nav: true
 
 ### Students
 
-|---
+|-------------------------------------|-----------|
 | PhD                                 | MTech     |
 |-------------------------------------|-----------|
 | Sonu Anirudha (jointly supervising) | Devesh    |
@@ -25,7 +25,9 @@ nav: true
 | H S Trinath Tammisetti              |           |
 | Reyya Kiran                         |           |
 
+
 ### Past students
+
 - Ritesh (Analog Devices)
 - Gopikrishna (Steradian Semi)
 - Nitish Kumar (Qualcomm)
