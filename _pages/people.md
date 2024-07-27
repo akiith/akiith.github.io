@@ -21,13 +21,16 @@ nav: true
 |-------------------------------------|-----------|
 | Sonu Anirudha (jointly supervising) | Devesh    |
 | Manish Kumar (external)             | Anurag    |
-| Divya Kumar Garg (external)         | Chaitanya |
-| Deepak Kumar Sah                    | Srishti   |
-| H S Trinath Tammisetti              |           |
-| Reyya Kiran                         |           |
+| Divya Kumar Garg (external)         | Venkatesh |
+| Deepak Kumar Sah                    | Shalem Raju |
+| H S Trinath Tammisetti              | Manasa    |
+| Reyya Kiran                         | Tejaswi   |
 
 ### Past students
 
+- Vijay (Intel)
+- Chaitanya (Mediatek)
+- Srishti (Micron)
 - Ritesh (Analog Devices)
 - Gopikrishna (Steradian Semi)
 - Nitish Kumar (Qualcomm)
