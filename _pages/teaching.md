@@ -9,12 +9,12 @@ nav_order: 5
 
 ### Theory courses
 
-- Waveguides and antennas (ongoing)
+- Waveguides and antennas (shared with Dr. Aneesh)
 - Digital circuits
 - Analog electronics
 - Integrated circuits for wireless communication
 - Analog IC design / Analog circuits
-- Electronic packaging
+- Electronic packaging (shared with Dr. Naresh)
 
 ### Lab course
 
