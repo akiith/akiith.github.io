@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>PI: Abhishek Kumar</p>
-    <p>Academic Block 'C' 436</p>
+    <p>EE312</p>
     <p>Department of Electrical Engineering</p>
     <p>IIT Hyderabad</p>
 
