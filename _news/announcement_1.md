@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Indian Patent granted: H.S. Trinath and Abhishek Kumar, “A FREQUENCY DIVISION DUPLEXER (FDD) TO FACILITATE WIDEBAND ISOLATION OF TRANSMITTING AND RECEIVING FREQUENCY,” 557058, Dec. 30, 2024
