@@ -19,15 +19,19 @@ nav: true
 |-------------------------------------|-----------|
 | PhD                                 | MTech     |
 |-------------------------------------|-----------|
-| Sonu Anirudha (jointly supervising) | Devesh    |
-| Manish Kumar (external)             | Anurag    |
-| Divya Kumar Garg (external)         | Venkatesh |
-| Deepak Kumar Sah                    | Shalem Raju |
-| H S Trinath Tammisetti              | Manasa    |
-| Reyya Kiran                         | Tejaswi   |
+| Sonu Anirudha (jointly supervising) | Anurag    |
+| Manish Kumar (external)             | Prashanth |
+| Divya Kumar Garg (external)         | Akhil     |
+| Deepak Kumar Sah                    | Vishwa Deepak |
+| H S Trinath Tammisetti              | Manish Bandi |
+| Reyya Kiran                         | Sravani   |
 
 ### Past students
-
+- Devesh (Allegro microsystems)
+- Venkatesh (Qualcomm)
+- Shalem Raju (DRDO)
+- Manasa (Micron)
+- Tejaswi (Micron)
 - Vijay (Intel)
 - Chaitanya (Mediatek)
 - Srishti (Micron)
