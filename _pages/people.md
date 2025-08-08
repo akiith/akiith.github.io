@@ -19,7 +19,7 @@ nav: true
 |-------------------------------------|-----------|
 | PhD                                 | MTech     |
 |-------------------------------------|-----------|
-| Sonu Anirudha (jointly supervising) | Anurag    |
+| Sonu Anirudha                       | Anurag    |
 | Manish Kumar (external)             | Prashanth |
 | Divya Kumar Garg (external)         | Akhil     |
 | Deepak Kumar Sah                    | Vishwa Deepak |
