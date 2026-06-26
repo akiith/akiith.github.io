@@ -22,9 +22,9 @@ nav: true
 | Sonu Anirudha                       | Anurag    |
 | Manish Kumar (external)             | Prashanth |
 | Divya Kumar Garg (external)         | Akhil     |
-| Deepak Kumar Sah                    | Vishwa Deepak |
-| H S Trinath Tammisetti              | Manish Bandi |
-| Reyya Kiran                         | Sravani   |
+| H S Trinath Tammisetti                    | Vishwa Deepak |
+| Reyya Kiran              | Manish Bandi |
+|                          | Sravani   |
 
 ### Past students
 - Devesh (Allegro microsystems)
