@@ -19,14 +19,18 @@ nav: true
 |-------------------------------------|-----------|
 | PhD                                 | MTech     |
 |-------------------------------------|-----------|
-| Sonu Anirudha                       | Anurag    |
+| Sonu Anirudha                       | Satyanarayan |
 | Manish Kumar (external)             | Prashanth |
 | Divya Kumar Garg (external)         | Akhil     |
 | H S Trinath Tammisetti                    | Vishwa Deepak |
-| Reyya Kiran              | Manish Bandi |
-|                          | Sravani   |
+| Reyya Kiran              | Shilpesh |
+|  | Shashank |
+|  | Vikranth |
 
 ### Past students
+- Anurag (Cadence)
+- Manish (Qualcomm)
+- Sravani (DRDO)
 - Devesh (Allegro microsystems)
 - Venkatesh (Qualcomm)
 - Shalem Raju (DRDO)
