@@ -26,6 +26,7 @@ nav: true
 | Reyya Kiran              | Shilpesh |
 |  | Shashank |
 |  | Vikranth |
+|  |  Dhanveer|
 
 ### Past students
 - Anurag (Cadence)
