@@ -29,8 +29,8 @@ nav: true
 |  |  Dhanveer|
 
 ### Past students
-- Anurag (Cadence)
-- Manish (Qualcomm)
+- Anurag (FermionIC)
+- Manish (Global Foundries)
 - Sravani (DRDO)
 - Devesh (Allegro microsystems)
 - Venkatesh (Qualcomm)
