@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Courses taught @ IITH
+description: Courses taught
 nav: true
 nav_order: 5
 ---
@@ -20,3 +20,7 @@ nav_order: 5
 
 - Analog electronics lab
 - Electronic system design lab
+
+### Online course
+
+- NPTEL course on "[IC Design for Wireless Systems](https://nptel.ac.in/courses/108106869)". ([Youtube](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-zXTdkyo-dbIE0incSJDzr))
